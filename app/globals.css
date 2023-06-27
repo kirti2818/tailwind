@@ -6,3 +6,12 @@ body {
    background-color: #000300;
 }
 
+/* @keyframes left-to-right {
+   from {
+     transform: translate(-100%);
+   }
+   to {
+     transform: translate(0%);
+   }
+} */
+

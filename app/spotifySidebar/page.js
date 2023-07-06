@@ -109,7 +109,7 @@ const Spotify = () => {
         </div>
           
       
-        <div className="flex flex-col gap-10 justify-between flex-1 overflow-y-scroll scrollbar-thin scrollbar-track scrollbar-thumb-green-700 px-[20px]">
+        <div className="flex flex-col gap-y-12 justify-between flex-1 overflow-y-scroll scrollbar-thin scrollbar-track scrollbar-thumb-green-700 px-[20px]">
           <SongDiv array = {SpotiExl} text = "Spotify original & exclusive shows"/>
           <SongDiv array = {TrendSong} text = "This is trending songs"/>
           <SongDiv array = {TrySong} text = "You can try these songs"/>
